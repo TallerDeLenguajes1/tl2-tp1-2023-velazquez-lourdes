@@ -1,0 +1,15 @@
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\bin\Debug\net7.0\cadeteria.exe
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\bin\Debug\net7.0\cadeteria.deps.json
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\bin\Debug\net7.0\cadeteria.runtimeconfig.json
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\bin\Debug\net7.0\cadeteria.dll
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\bin\Debug\net7.0\cadeteria.pdb
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.csproj.AssemblyReference.cache
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.AssemblyInfoInputs.cache
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.AssemblyInfo.cs
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.csproj.CoreCompileInputs.cache
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.dll
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\refint\cadeteria.dll
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.pdb
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\cadeteria.genruntimeconfig.cache
+D:\Users\Lourdes Velazquez\Desktop\LOURDES I\FACULTAD\INGENIERIA  INFORMATICA\TALLER 2\PRACTICA\cadeteria\obj\Debug\net7.0\ref\cadeteria.dll
